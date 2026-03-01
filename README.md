@@ -21,3 +21,6 @@ To demonstrate hands-on Python usage for:
 Author: Rıza Korkusuz  
 Location: San Diego, CA  
 Focus: IT Support | Cybersecurity | SOC Analyst
+
+📖 Related Articles:
+https://medium.com/@rizakorkusuz
